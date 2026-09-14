@@ -1,7 +1,8 @@
-## Hi there 👋
+# HELLOWORLD I'M KSATRIA👋
 
+![ksatria-lab401](img/heading%20image%20github.png)
 <!--
-**ksatria-lab401/ksatria-lab401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ksatria-la b401/ksatria-lab401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
