@@ -3,7 +3,7 @@
 
 
 #  About Me:
-A student builder and AI Orchestrator focusing on client-side security tools, serverless infrastructures, and cryptographic workflows. Driven by high-level logic, running on low-spec hardware.<br><br>The Human and AI Workflow<br>Everything you see here is built and analyzed using a hybrid workflow. I design the architecture, direct the logic, and use Advanced AI as a hyper-fast co-pilot to write, refactor, and harden the codebase against real-world vulnerabilities.<br><br> ⚙ Core Technologies and Languages 
+A student builder and AI enthusisast focusing on client-side security tools, serverless infrastructures, and cryptographic workflows. Driven by high-level logic, running on low-spec hardware.<br><br>The Human and AI Workflow<br>Everything you see here is built and analyzed using a hybrid workflow. I design the architecture, direct the logic, and use Advanced AI as a hyper-fast co-pilot to write, refactor, and harden the codebase against real-world vulnerabilities.<br><br> ⚙ Core Technologies and Languages 
 <br>- Logic and Architecture: Vanilla JavaScript (ES6+), HTML5, CSS3
 <br>- Cloud Ecosystem: Firebase (Auth, Cloud Firestore Security Rules), Cloudinary API
 <br>- Infrastructure Lab: Conceptual knowledge of local virtualization, Proxmox VE Cluster architecture, LAN, and switching
